@@ -1,3 +1,7 @@
 # favorite food
 
-applee
+<<<<<<< HEAD
+apple とウンコ
+=======
+
+> > > > > > > main
